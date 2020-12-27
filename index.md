@@ -1,15 +1,11 @@
-## Welcome to GitHub Pages
+## About fork
 
-You can use the [editor on GitHub](https://github.com/The-SGPT/TJAPlayer3GL/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A simple, yet, stupid approach to replicate the old-generation style ui and probably gameplay.
+I'm not that good at coding (<---- liar, knows simple to moderate C++, C#, and JavaScript), but I appreciate pull requests and issues.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What this project aims
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Probably nothing (cos I suck)
 
 # Header 1
 ## Header 2
@@ -24,7 +20,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
