@@ -1,5 +1,5 @@
 ﻿<!-- omit in toc -->
-#### TJAPlayer8
+# TJAPlayer8
 
 # About TJAPlayer3GL
 DirectXに依存しているTJAPlayer3を、OpenGLベースにしちゃおう！っていうプロジェクトです。
